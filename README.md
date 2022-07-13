@@ -20,3 +20,5 @@
 </div> <br/>
 
 Apaixonado por tecnologia e aprender coisas novas!
+
+![Snake animation](https://github.com/Eduardo-Ott/Eduardo-Ott/blob/output/github-contribution-grid-snake.svg)
