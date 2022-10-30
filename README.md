@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Eduardo Ott!👻
 ### Desenvolvedor Full-Stack formado em Análise e Desenvolvimento de Sistemas pela Uniritter. 🎓
 
-###Estou a procura de uma oportunidade como Desenvolvedor Júnior para iniciar minha jornada na área de desenvolvimento.
+### Estou a procura de uma oportunidade como Desenvolvedor Júnior para iniciar minha jornada na área de desenvolvimento.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ott/)
 
