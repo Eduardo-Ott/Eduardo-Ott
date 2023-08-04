@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Eduardo Ott!👻
 
-## Desenvolvedor Full-Stack buscando uma oportunidade para iniciar na área da tecnologia, buscando desenvolver aplicações que sejam vistas como referência no mercado, sempre focando na melhor experiência para o usuário!
+## Desenvolvedor Full-Stack, buscando desenvolver aplicações que sejam vistas como referência no mercado, sempre focando na melhor experiência para o usuário!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ott/)
 
