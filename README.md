@@ -4,10 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ott/)
 
-<!-- ![Eduardo Ott GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Ott&show_icons=true&theme=tokyonight) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ott&layout=compact&layout=compact&theme=tokyonight)](https://github.com/Eduardo-Ott/github-readme-stats)
-
-
 ## Tecnologias que eu domino:
 
 <div>
