@@ -1,6 +1,12 @@
 ## Olá, Eu sou o Eduardo Ott!👻
 
-## Desenvolvedor Full-Stack, buscando desenvolver aplicações que sejam vistas como referência no mercado, sempre focando na melhor experiência para o usuário!
+## Desenvolvedor Full Stack com sólida experiência em PHP e JavaScript, trabalhando com frameworks como Laravel, Livewire e jQuery. Tenho também domínio prático em Docker e AWS, voltado para ambientes escaláveis e bem estruturados.
+
+Atuei em projetos que envolvem desde manutenção de sistemas legados até a modernização completa da arquitetura, sempre com foco em performance, organização do código e aplicação de boas práticas como design patterns.
+
+Já supervisionei tecnicamente migrações de sistemas e participei de integrações com APIs externas, especialmente no setor financeiro.
+
+Sou proativo, focado em entregar soluções robustas e sempre em busca de evolução contínua.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ott/)
 
