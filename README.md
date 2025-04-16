@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Eduardo Ott!👻
 
-## Desenvolvedor Full Stack com sólida experiência em PHP e JavaScript, trabalhando com frameworks como Laravel, Livewire e jQuery. Tenho também domínio prático em Docker e AWS, voltado para ambientes escaláveis e bem estruturados.
+Desenvolvedor Full Stack com sólida experiência em PHP e JavaScript, trabalhando com frameworks como Laravel, Livewire e jQuery. Tenho também domínio prático em Docker e AWS, voltado para ambientes escaláveis e bem estruturados.
 
 Atuei em projetos que envolvem desde manutenção de sistemas legados até a modernização completa da arquitetura, sempre com foco em performance, organização do código e aplicação de boas práticas como design patterns.
 
